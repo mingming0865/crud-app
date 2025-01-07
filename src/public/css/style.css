@@ -27,10 +27,6 @@ body {
     color: white;
 }
 
-a {
-    text-decoration: none;
-}
-
 .create-user-container {
     padding: 15px;
     text-align: center;
@@ -69,4 +65,8 @@ a {
 
 .upload-file-container label {
     display: block;
+}
+
+.act {
+    display: inline-block;
 }
